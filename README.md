@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @metebalci, @metebalci@fosstodon.org
-- 👀 I’m interested in many things.
-- 🌱 I’m currently working to improve digsec
-- 📫 How to reach me: check my [website](https://metebalci.com)
+👋 Hi, I’m [Mete](https://metebalci.com)
