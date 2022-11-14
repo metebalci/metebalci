@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @metebalci
+- 👋 Hi, I’m @metebalci, @metebalci@fosstodon.org
 - 👀 I’m interested in many things.
-- 🌱 I’m currently learning DNSSEC and PLCs
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me, check my [website](https://metebalci.com)
+- 🌱 I’m currently working to improve digsec
+- 📫 How to reach me: check my [website](https://metebalci.com)
