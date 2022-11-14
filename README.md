@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @metebalci
+- 👀 I’m interested in many things.
+- 🌱 I’m currently learning DNSSEC and PLCs
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me, check my [website](https://metebalci.com)
